@@ -1,0 +1,46 @@
+{
+  "name": "Amsterdam Heritage",
+  "dataColors": [
+    "#1F4E5A",
+    "#B8AFA2",
+    "#B5552B",
+    "#C9A227",
+    "#5E7F6E",
+    "#7A4E3A",
+    "#8FA3A8",
+    "#D8CFC0"
+  ],
+  "foreground": "#2E2A25",
+  "foregroundNeutralSecondary": "#6B645B",
+  "background": "#FBF8F2",
+  "backgroundLight": "#F4EFE6",
+  "backgroundNeutral": "#D8CFC0",
+  "tableAccent": "#1F4E5A",
+  "good": "#1F4E5A",
+  "neutral": "#B8AFA2",
+  "bad": "#B5552B",
+  "maximum": "#1F4E5A",
+  "center": "#D8CFC0",
+  "minimum": "#B5552B",
+  "textClasses": {
+    "callout": { "fontSize": 28, "fontFace": "Georgia", "color": "#1F4E5A" },
+    "title": { "fontSize": 13, "fontFace": "Georgia", "color": "#2E2A25" },
+    "header": { "fontSize": 12, "fontFace": "Georgia", "color": "#2E2A25" },
+    "label": { "fontSize": 9, "fontFace": "Segoe UI", "color": "#5E574E" }
+  },
+  "visualStyles": {
+    "*": {
+      "*": {
+        "background": [{ "show": true, "color": { "solid": { "color": "#FBF8F2" } }, "transparency": 0 }],
+        "title": [{ "fontFamily": "Georgia", "fontSize": 13, "fontColor": { "solid": { "color": "#2E2A25" } } }],
+        "subTitle": [{ "fontFamily": "Segoe UI", "fontSize": 9, "fontColor": { "solid": { "color": "#6B645B" } } }]
+      }
+    },
+    "page": {
+      "*": {
+        "background": [{ "color": { "solid": { "color": "#EFE8DC" } }, "transparency": 0 }],
+        "outspace": [{ "color": { "solid": { "color": "#EFE8DC" } } }]
+      }
+    }
+  }
+}

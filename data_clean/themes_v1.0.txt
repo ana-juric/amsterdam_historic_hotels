@@ -1,0 +1,15 @@
+theme_id	theme	theme_group	report_category	definition
+G1	Staff and service	general	Service	Guest mentions staff behavior, helpfulness, reception, check-in
+G2	Room, comfort and facilities	general	Comfort and condition	Guest mentions the room, bed, size, bathroom, temperature, wifi or other facilities
+G3	Location	general	Location	Guest mentions the location, distance to sights, transport
+G4	Cleanliness	general	Cleanliness	Guest mentions how clean or dirty the hotel or room was
+G5	Breakfast and food	general	Food	Guest mentions breakfast, restaurant, bar, food and drinks
+G6	Price and value	general	Value	Guest mentions price, value for money, extra charges
+G7	Noise	general	Comfort and condition	Guest mentions noise from street, neighbours, building or bars
+G8	Stairs, lift and accessibility	general	Accessibility	Guest mentions stairs, lifts, steep or narrow staircases, luggage, accessibility
+G9	Condition and signs of age	general	Comfort and condition	Guest mentions the condition of the hotel or room: renovated, well maintained, or dated, worn, broken. Positive text = praise of the condition, negative text = complaints.
+H1	Historic building, architecture and interior	heritage	Heritage experience	Guest mentions the historic building, its architecture or style (canal house, Dutch style), its earlier life (bank, factory, school), or original and period features inside (beams, antiques, Delft tiles, chandeliers).
+H3	Story and history of the place	heritage	Heritage experience	Guest mentions the history of the hotel: what the building used to be, events, famous guests, staff telling its history, long tradition as a hotel
+H4	Feeling of the past and atmosphere	heritage	Heritage experience	Guest describes feelings created by the historic setting: stepping back in time, imagining another era, a special atmosphere
+H6	Spaces and experiences to enjoy	heritage	Heritage experience	Guest mentions using and enjoying the hotel's special spaces or activities: library, lounge, courtyard, garden, terrace, high tea, a tour of the building
+H7	Uniqueness and distinctiveness	heritage	Heritage experience	Guest describes the stay as unique, special or unlike other (chain) hotels
