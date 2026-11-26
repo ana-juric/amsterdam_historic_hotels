@@ -165,4 +165,4 @@ All decisions and their reasons are documented in the decision log (`docs/`).
 
 ---
 
-*Ana Jurić · [LinkedIn](www.linkedin.com/in/juricana) · Data analyst with a background in tourism, culture and hospitality*
+*Ana Jurić · [LinkedIn](https://www.linkedin.com/in/juricana) · Data analyst with a background in tourism, culture and hospitality*
